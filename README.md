@@ -8,7 +8,7 @@
 
 
 <h3 align="center">
-<img src="https://github.com/fiborges/42SchoolProjects/blob/main/GetNextLine/Screenshot%202022-11-20%20at%2014.57.04.png" width="200" height="80"/>
+<img src="https://github.com/fiborges/Jogos/blob/main/Jogo%20do%20Galo.jpeg" width="100" height="80"/>
 	
 <img src="https://github.com/fiborges/42SchoolProjects/blob/main/GetNextLine/Screenshot%202022-11-20%20at%2014.57.04.png" width="200" height="80"/>
 
